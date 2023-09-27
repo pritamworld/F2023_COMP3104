@@ -1,4 +1,4 @@
-#### COMP3104 – Developer Operations
+#### DevOps – Developer Operations
 
 - Pritesh 
 - Patel
