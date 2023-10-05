@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pritamworld/F2023_COMP3104/static/css/main.073c9b0a.css",
+    "main.js": "/pritamworld/F2023_COMP3104/static/js/main.853191f9.js",
+    "static/js/787.71cfefd0.chunk.js": "/pritamworld/F2023_COMP3104/static/js/787.71cfefd0.chunk.js",
+    "static/media/logo.svg": "/pritamworld/F2023_COMP3104/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pritamworld/F2023_COMP3104/index.html",
+    "main.073c9b0a.css.map": "/pritamworld/F2023_COMP3104/static/css/main.073c9b0a.css.map",
+    "main.853191f9.js.map": "/pritamworld/F2023_COMP3104/static/js/main.853191f9.js.map",
+    "787.71cfefd0.chunk.js.map": "/pritamworld/F2023_COMP3104/static/js/787.71cfefd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.853191f9.js"
+  ]
+}
